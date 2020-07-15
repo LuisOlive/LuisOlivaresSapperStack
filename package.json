@@ -48,7 +48,6 @@
     "sapper": "^0.27.0",
     "stylus": "^0.54.7",
     "svelte": "^3.0.0",
-    "svelte-preprocess": "^3.9.10",
-    "typescript": "^3.9.5"
+    "svelte-preprocess": "^3.9.10"
   }
 }
